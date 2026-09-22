@@ -92,3 +92,7 @@ streamlit run app.py     # Pano
 ## Teknolojiler
 
 Python · scikit-learn · XGBoost · pandas · Flask · Streamlit · Claude API · Open-Meteo API
+
+## Geliştiren
+
+Fatih Şener
