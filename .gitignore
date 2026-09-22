@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Anahtarlar
+.env
+
+# Veri seti hackathon organizasyonuna ait; depoda tutulmuyor
+data/*
+!data/.gitkeep
+
+# Eğitilen modeller yeniden üretilebilir
+models/*
+!models/.gitkeep
+
+# Arka plan videoları büyük dosyalar
+assets/*.mp4
